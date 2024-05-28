@@ -6,11 +6,12 @@
 
 ***OpenXLab 体验地址：***
 
-***https://openxlab.org.cn/apps/detail/BYCJS/Chat_huanhuan***
+***https://openxlab.org.cn 待加入***
 
 
 ### 参考说明
-- 嬛嬛模型，八戒等
+- 借鉴了嬛嬛模型，八戒等的技术框架 体验地址如下
+***https://openxlab.org.cn/apps/detail/BYCJS/Chat_huanhuan***
 
 ## 💕 致谢
 

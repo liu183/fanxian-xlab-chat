@@ -8,9 +8,9 @@ import streamlit as st
 # 在侧边栏中创建一个标题和一个链接
 with st.sidebar:
     st.markdown("## InternLM LLM")
-    "[InternLM](https://github.com/InternLM/InternLM.git)"
-    "[开源大模型食用指南 self-llm](https://github.com/datawhalechina/self-llm.git)"
-    "[Chat嬛嬛](https://github.com/KMnO4-zx/huanhuan-chat.git)"
+    # "[InternLM](https://github.com/InternLM/InternLM.git)"
+    # "[开源大模型食用指南 self-llm](https://github.com/datawhalechina/self-llm.git)"
+    # "[Chat](https://github.com/KMnO4-zx/huanhuan-chat.git)"
     # 创建一个滑块，用于选择最大长度，范围在0到1024之间，默认值为512
     max_length = st.slider("max_length", 0, 1024, 512, step=1)
     system_prompt = st.text_input("System_Prompt", "现在你要扮演庆余年电视剧中的范闲")
