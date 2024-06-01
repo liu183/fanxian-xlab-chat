@@ -3,7 +3,8 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, GenerationConfig
 import torch
 import streamlit as st
 
-# from modelscope import snapshot_download
+from modelscope import snapshot_download
+
 
 # 在侧边栏中创建一个标题和一个链接
 with st.sidebar:
