@@ -19,7 +19,7 @@ st.caption("🚀 A streamlit chatbot powered by InternLM2 QLora")
 
 # 定义模型路径
 
-model_id = 'daniu188/xlab_chat-fanxian'
+model_id = 'liu188/chat-fanxian'
 
 mode_name_or_path = snapshot_download(model_id, revision='master')
 # mode_name_or_path = '/root/xlab-huanhuan/final_model' #snapshot_download(model_id, revision='master')
