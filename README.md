@@ -6,7 +6,7 @@
 
 ***OpenXLab 体验地址：***
 
-***https://openxlab.org.cn 待加入***
+*** https://openxlab.org.cn/apps/detail/daniu188/chat-fanxian ***
 
 
 ### 参考说明
